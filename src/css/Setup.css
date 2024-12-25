@@ -1,0 +1,48 @@
+/* TABLE */
+.p_select{
+    width: 6em;
+}
+.setup_table table{
+    white-space: normal !important;
+    word-break: break-word;
+}
+
+
+/* Rank Table Modal */
+#ranking_table_modal{
+    top: 150px !important;
+    left: 600px !important;
+    width: 20% !important;
+}
+#ranking_table_modal .modal-title{
+    font-size: 1.25em;
+}
+#ranking_table_modal .spinner{
+    float: right;
+}
+#ranking_table_modal .modal-header{
+    padding: 0.75rem 0.75rem !important;
+}
+#rank_table{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p_rank{
+    width: 10em;
+}
+.p_selector{
+    width: 15em;
+}
+#rank_btn{
+    float: right;
+    margin-top: 1em;
+}
+
+/* Buttons */
+.film_btn{
+    margin-top: 1.5em;
+}
+#rank_btn{
+    float: right;
+}

@@ -1,0 +1,39 @@
+/* COLUMN WIDTHS */
+.all_projects{
+    width: 175em;
+}
+.all_projects th
+/* , .all_projects th input */
+{
+    text-align: center;
+}
+.all_projects .links a{
+    color: #EC6408;
+    background-color: transparent;
+}
+
+#display_checkbox{
+    margin-top: 4em;
+}
+
+
+
+/* ICONS */
+#version_icon{
+    color: black;
+    height: 2.3em;
+    width: 1.8em;
+    cursor: pointer;
+}
+#delete_version_icon{
+    width: 2em;
+    height: 2em;
+    color: darkred;
+    cursor: pointer;
+}
+#link_icon{
+    height: 1.4em;
+    width: 2em;
+    cursor: pointer;
+    color: #762CB3;
+}

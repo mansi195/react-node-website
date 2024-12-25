@@ -1,0 +1,11 @@
+#spinner-modal .modal-content{
+    border: none;
+    align-items: center;
+    background-color: transparent !important;
+    margin-left: auto;
+    margin-right: auto;
+    width: 0;
+}
+.spinner-position{
+    margin-left: 2em;
+}
